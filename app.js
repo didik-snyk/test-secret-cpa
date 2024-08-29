@@ -83,7 +83,7 @@ if (app.get('env') == 'development') {
 var token = 'SECRET_TOKEN_87298347928414640bbca18d23a9_testing';
 var secret = '12345678'
 var token2 = 'SECRET_TOKEN_498983745993804985039837498753uweiruyweiury$%#$%#$8932749827323_testing'
-var API_KEY = 'APP_KEY'
+var API_KEY = 'APP_KEY1'
 var username = 'supercool1234'
 var password = 'jshdf89324'
 
