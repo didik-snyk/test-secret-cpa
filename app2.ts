@@ -60,6 +60,7 @@ function App(): React.JSX.Element {
   const isDarkMode = useColorScheme() === 'dark';
   const API_KEY: string = 'TESTKEY890';
   const token2: string = 'SECRET_TOKEN_498983745993804985039837498753uweiruyweiury823768763458732749827323_testing'
+  const password: string = 'jshdf89324'
 
   const backgroundStyle = {
     backgroundColor: isDarkMode ? Colors.darker : Colors.lighter,
